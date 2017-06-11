@@ -11,7 +11,7 @@ This repo contains all files used to create the IOTA video. Since we strongly be
 - Budget: ~500$
 - Production Members: 6
 
-#### support:
+#### Support:
 
 To support the production and allow higher quality renderings feel free to contribute to our IOTA team wallet:
 ``` DTMPYKSYROXHHTYSWMVMTXNYGOFDG9RQXWTCXQWKTYJZNVHNEUFRFCTC9M9ICYXKWFRNA9UNTOVHWVUCQLGLJPQXKG ```
