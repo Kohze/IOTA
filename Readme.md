@@ -12,8 +12,12 @@ This repo contains all files used to create the IOTA video. Since we strongly be
 To support the production and allow higher quality renderings feel free to contribute to our team wallet:
 ``` DTMPYKSYROXHHTYSWMVMTXNYGOFDG9RQXWTCXQWKTYJZNVHNEUFRFCTC9M9ICYXKWFRNA9UNTOVHWVUCQLGLJPQXKG ```
 
+production drawing board:
+![alt text](https://preview.ibb.co/fDSjyF/img_10.jpg)
 
+Intro Image:
 ![alt text](https://preview.ibb.co/iCsEXa/IOTA_City_pre_Final_intro_Dark_early.jpg)
 
 
 I hereby thank the support of our Cambridge Proteomics lab to make this project possible.
+
