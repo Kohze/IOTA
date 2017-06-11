@@ -1,0 +1,14 @@
+
+What will be the currency of choice in 10 years time? It could be IOTA. 
+
+IOTA is a 3rd generation crypto currency and the first that supports fast de-centralized currency transfers with quantum security. 
+In today’s crypto marketspace we see a variety of specialized currencies. While Bitcoin proved that the world is ready for crypto currencies, its architecture does not allow trade in daily commodities. Although innovative currencies, such as Ethereum, have improved transaction times significantly, every blockchain based crypto currency has the drawbacks of slow transaction speeds and high transaction fees. 
+
+While IOTA has every feature of current crypto currencies, its unique distributed confirmation algorithm, the “Tangle”, allows almost instantaneous transfers. With each IOTA transaction, the user’s device confirms two other transactions. In doing so, each user directly provides the computing power needed to confirm the validity of the transactions. Due to this de-centralized structure, there are no miners and therefore no transaction fees. 
+
+Every crypto currency shines in its own unique aspects. Bitcoin is the current gatekeeper of crypto currencies; Ethereum, the so called “world computer” supports smart contracts and Ripple XRP revolutionizes globalized banking transactions. Due to its decentralization and transaction speed, IOTA is the first viable micro payment solution that is suitable for everyday payments. Since intelligent IOT devices become more and more independent, we see a future where crypto currencies are traded for micro services between IOT devices. Those services could encompass electricity, storage and server power.  
+
+IOTA tokens can now be bought at all major crypto market exchanges, and wallets are available for all operating systems. 
+
+IOTA, 
+a world currency.
