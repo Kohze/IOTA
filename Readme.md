@@ -21,11 +21,6 @@ In case you want to render your own images from the 3d files, you need the follo
 - C4D visualize library
 - Motion Drop plugin
 
-#### Support:
-
-To support the production and allow higher quality renderings feel free to contribute to our IOTA team wallet:
-``` DTMPYKSYROXHHTYSWMVMTXNYGOFDG9RQXWTCXQWKTYJZNVHNEUFRFCTC9M9ICYXKWFRNA9UNTOVHWVUCQLGLJPQXKG ```
-
 #### Symbolic:
 
 - Roads: Roads symbolize the blockchain
